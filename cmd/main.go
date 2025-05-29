@@ -4,6 +4,7 @@ import (
 	"github.com/busy-cloud/boat/boot"
 	"github.com/busy-cloud/boat/log"
 	"github.com/busy-cloud/boat/web"
+	_ "github.com/busy-cloud/dash/internal"
 	"github.com/spf13/viper"
 )
 

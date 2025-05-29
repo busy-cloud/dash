@@ -5,6 +5,7 @@ import (
 	"encoding/json"
 	"github.com/busy-cloud/boat/app"
 	"github.com/busy-cloud/boat/apps"
+	_ "github.com/busy-cloud/dash/internal"
 	"log"
 )
 
