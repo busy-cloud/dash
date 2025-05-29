@@ -17,7 +17,7 @@ var manifest []byte
 func init() {
 
 	//注册页面
-	apps.Pages().EmbedFS(pages, "")
+	apps.Pages().EmbedFS(pages, "pages")
 
 	//注册为内部插件
 	var a app.App
