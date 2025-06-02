@@ -1,17 +1,26 @@
 {
   "id": "dash",
+  "icon": "icon.png",
   "name": "控制台",
   "description": "简单控制台，做测试用",
   "version": "v0.0.1",
+  "shortcuts": [
+    {
+      "name": "仪表盘",
+      "url": "page/dash",
+      "icon": "icon.png"
+    }
+  ],
   "menus": [
     {
       "name": "控制台",
-      "icon": "dashboard",
+      "nz-icon": "dashboard",
       "index": 0,
       "items": [
         {
           "name": "仪表盘",
-          "url": "page/dash"
+          "url": "page/dash",
+          "icon": "icon.png"
         }
       ]
     }
