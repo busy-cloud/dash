@@ -14,7 +14,7 @@
   "menus": [
     {
       "name": "控制台",
-      "nz-icon": "dashboard",
+      "nz_icon": "dashboard",
       "index": 0,
       "items": [
         {
