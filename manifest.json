@@ -7,7 +7,7 @@
   "shortcuts": [
     {
       "name": "仪表盘",
-      "url": "page/dash",
+      "url": "page/dash/dash",
       "icon": "icon.png"
     }
   ],
@@ -19,7 +19,7 @@
       "items": [
         {
           "name": "仪表盘",
-          "url": "page/dash",
+          "url": "page/dash/dash",
           "icon": "icon.png"
         }
       ]
